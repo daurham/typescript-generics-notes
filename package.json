@@ -1,0 +1,18 @@
+{
+  "name": "typescript-generics",
+  "version": "1.0.0",
+  "description": "Learn TS generics",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "nodemon dist/generics101.js",
+    "ts": "tsc -w"
+  },
+  "keywords": ["typescript", "generics"],
+  "author": "daurham",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.0.25",
+    "nodemon": "^2.0.20",
+    "typescript": "^4.9.3"
+  }
+}
